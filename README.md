@@ -1,10 +1,10 @@
-# 🐍 Snake Game in Java (Swing)
+# Snake Game in Java (Swing) 🐍
 
 A classic Snake Game built using **Java Swing**. The game features real-time snake movement, apple generation, score tracking, and collision detection.
 
 ---
 
-## 🎮 Features
+## Features:
 - Snake moves in four directions (Up, Down, Left, Right).
 - Apple appears at random positions on the grid.
 - Score increases when the snake eats an apple.
@@ -16,13 +16,16 @@ A classic Snake Game built using **Java Swing**. The game features real-time sna
 
 ---
 
-## 🖼️ Screenshots
-![Snake Game Screenshot](./Screenshot1.png)
-![Score Screenshot](./Screenshot2.png)
+## Screenshots:
+
+<p align="center">
+  <img src="./Screenshot1.png" alt="Snake Game Screenshot 1" width="300"/>
+  <img src="./Screenshot2.png" alt="Snake Game Screenshot 2" width="300"/>
+</p>
 
 ---
 
-## ⚙️ How It Works
+## How It Works:
 - Built with **Java Swing** for GUI rendering.
 - Uses a **Timer** for game loop execution.
 - Apple positions generated randomly, aligned to the grid.
@@ -31,17 +34,17 @@ A classic Snake Game built using **Java Swing**. The game features real-time sna
 
 ---
 
-## 🚀 Getting Started
+## Getting Started:
 
 ### Prerequisites
 - Install **Java JDK 8 or higher**
 
-### 📂 Project Structure
+### Project Structure:
 - ├── gamePanel.java     # Game logic and rendering
 - ├── SnakeGame.java     # Main class to run the game
 - └── README.md          # Project documentation
 
-### 🏆 Skills Learned
+### Skills Learned:
 
 - Java Swing (GUI development)
 - Event-driven programming
